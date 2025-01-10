@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service</title>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p>Welcome to our application! By using our services, you agree to the following terms:</p>
+    <ul>
+        <li><strong>Respect for rules:</strong> Users must adhere to the rules and guidelines set by our platform and any associated services.</li>
+        <li><strong>Data usage:</strong> Your data will be collected and used in accordance with our Privacy Policy.</li>
+        <li><strong>Liability:</strong> We are not responsible for any damages or losses resulting from misuse of our services.</li>
+        <li><strong>Updates:</strong> These terms may be updated from time to time. It is your responsibility to review them regularly.</li>
+        <li><strong>Termination:</strong> We reserve the right to suspend or terminate access to our services if users violate these terms.</li>
+    </ul>
+    <p>For more information, please contact us at support@example.com.</p>
+</body>
+</html>
